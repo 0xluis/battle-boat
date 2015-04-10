@@ -36,7 +36,7 @@ Sega Genesis Controller Pinouts on Pinouts.ru
 http://pinouts.ru/Game/genesiscontroller_pinout.shtml
 
 #Demo:
-https://www.youtube.com/watch?v=mTwx05O1oj0
+https://youtu.be/Ash_92EBXgk
 
 
 #Things to do
