@@ -37,3 +37,8 @@ http://pinouts.ru/Game/genesiscontroller_pinout.shtml
 
 #Demo:
 https://www.youtube.com/watch?v=mTwx05O1oj0
+
+
+#Things to do
+Fix "AI" (just randomly selects a sqaure)
+State transition is screwed and causes a game breaking error
